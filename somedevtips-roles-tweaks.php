@@ -6,6 +6,7 @@
  * Author: SomeDevTips
  * Version: 1.0.0
  * Author URI: https://somedevtips.com/
+ * License: AGPLv3.0
  */
 
 defined( 'ABSPATH' ) OR exit;
